@@ -34,3 +34,12 @@ double s_norm(int length, double* x, double p){
 
 	return std::pow(norm_result, 1/p);
 }
+
+
+double s_inner_prod(int length, double* x, double* y){
+	double d_res = 0;
+	for(int i = 0; i < length; i++){
+		d_res += x[i] * y[i];
+	}
+	return d_res;
+}

@@ -29,3 +29,15 @@ void s_axpby(int length, double alpha, double* x, double beta, double* y, double
 		p-norm of array x
 */
 double s_norm(int length, double* x, double p);
+
+/*
+	execute basic result = <x, y>
+
+	parameters:
+		length:	dim of vector
+		x:
+		y:
+	return:
+		result:	result of <x, y>
+*/
+double s_inner_prod(int length, double* x, double* y);
