@@ -1,0 +1,29 @@
+CC		=	gcc
+NVCC	=	nvcc	
+CPLUSCC	=	g++
+
+# set compile flag
+# http://blog.sina.com.cn/s/blog_54f82cc201011op1.html
+# I put CSPARSE out of my working directory since it is not my work
+CSparseFLAG	=	-static
+SMIOFLAG	=	-static
+serialBLASFLAG	=	-static
+CUFLAG		=	-g -lcudart -lcusparse
+
+# set PATH
+CSparsePATH	=	~/Document/CSPARSE
+MMIOPATH	=	~/Document/IterativeMethod/tools/MMIO
+SerialBLASPATH	=	~/Document/IterativeMethod/tools/SerialBLAS
+
+# set include path
+IncPATH		=	-I /public/home/LeiChao/Document/IterativeMethod/tools \
+				-I ${MMIOPATH} \
+				-I ${SerialBLASPATH} \
+				-I ${CSparsePATH}
+
+# compiling task
+Solver:	Solver.cpp ${CSparsePATH}/csparse.c ${MMIOPATH}/mmio.c ${SerialBLASPATH}/SerialBLAS.cpp 
+	${CPLUSCC} ${IncPATH} Solver.cpp ${CSparsePATH}/csparse.c ${MMIOPATH}/mmio.c ${SerialBLASPATH}/SerialBLAS.cpp -o Solver -g -fpermissive
+
+clean:
+	rm *.a Solver

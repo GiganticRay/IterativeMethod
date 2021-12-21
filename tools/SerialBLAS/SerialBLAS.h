@@ -41,3 +41,15 @@ double s_norm(int length, double* x, double p);
 		result:	result of <x, y>
 */
 double s_inner_prod(int length, double* x, double* y);
+
+/*
+	Print vector
+	how to seperate definition and declaration of template method: 
+	http://www.cs.technion.ac.il/users/yechiel/c++-faq/separate-template-fn-defn-from-decl.html
+
+	what does compilier do when coping with template method: 
+	http://www.cs.technion.ac.il/users/yechiel/c++-faq/templates-defn-vs-decl.html
+*/
+template <typename elemType>
+void s_Print_vec(int length, elemType* array);
+

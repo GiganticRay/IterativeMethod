@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <iostream>
 #include <cmath>
+#include "SerialBLAS.h"
 
 void s_axpby(int length, double alpha, double* x, double beta, double* y, double* result){
 	// check the validation of input
@@ -43,3 +44,14 @@ double s_inner_prod(int length, double* x, double* y){
 	}
 	return d_res;
 }
+
+template <typename elemType>
+void s_Print_vec(int length, elemType* array){
+	printf("length is %d \n", length);
+	for(int i = 0; i < length; i++){
+		std::cout << array[i] << "\t";
+	}
+	printf("\n\n");
+}
+template void s_Print_vec<int>(int length, int* array);
+template void s_Print_vec<double>(int length, double* array);
