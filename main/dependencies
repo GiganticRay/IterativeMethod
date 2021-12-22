@@ -1,0 +1,8 @@
+main
+	mmio.a				# io for mtx sparse matrix
+	csparse.a			# providing cs data structure for sparse matrix.
+	iterativeSolver.a	# self-wrote iterative Solver
+		serialBLAS.a	# self-wrote serial running BLAS funcitons.
+		csparse.a		# providing linear operations over sparse matrix.
+
+# notice: copying action only happens on linking phase, so we only need to specify the include path of serialBLAS.h and csparse.h instead of specifying corrosponding library. libraries should be pointed on the final linking phase generating executable main.

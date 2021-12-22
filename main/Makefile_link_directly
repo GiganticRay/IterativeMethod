@@ -14,16 +14,18 @@ CUFLAG		=	-g -lcudart -lcusparse
 CSparsePATH	=	~/Document/CSPARSE
 MMIOPATH	=	~/Document/IterativeMethod/tools/MMIO
 SerialBLASPATH	=	~/Document/IterativeMethod/tools/SerialBLAS
+IterativeSolverPATH	=	~/Document/IterativeMethod/IterativeSolver
 
 # set include path
 IncPATH		=	-I /public/home/LeiChao/Document/IterativeMethod/tools \
 				-I ${MMIOPATH} \
 				-I ${SerialBLASPATH} \
-				-I ${CSparsePATH}
+				-I ${CSparsePATH} \
+				-I ${IterativeSolverPATH}
 
 # compiling task
-Solver:	Solver.cpp ${CSparsePATH}/csparse.c ${MMIOPATH}/mmio.c ${SerialBLASPATH}/SerialBLAS.cpp 
-	${CPLUSCC} ${IncPATH} Solver.cpp ${CSparsePATH}/csparse.c ${MMIOPATH}/mmio.c ${SerialBLASPATH}/SerialBLAS.cpp -o Solver -g -fpermissive
+main:	main.cpp ${CSparsePATH}/csparse.c ${MMIOPATH}/mmio.c ${SerialBLASPATH}/SerialBLAS.cpp ${IterativeSolverPATH}/IterativeSolver.cpp
+	${CPLUSCC} ${IncPATH} main.cpp ${CSparsePATH}/csparse.c ${MMIOPATH}/mmio.c ${SerialBLASPATH}/SerialBLAS.cpp ${IterativeSolverPATH}/IterativeSolver.cpp -o Solver -g -fpermissive
 
 clean:
 	rm *.a Solver
