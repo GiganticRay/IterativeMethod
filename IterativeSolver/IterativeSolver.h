@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "csparse.h"
 
-/* GMRES 
+/* Generalized Minimal Residual Method 
 
 // algorithm
 q1 = b/norm(b);		// s_axpy, s_norm
@@ -20,3 +20,20 @@ for n = 1, 2, 3...
 	x_n 		= Q_n • y			// s_mv
 */
 void GMRES_Solver(double res_thres, int iter_times_thres, double& res, int & iter_times, cs* A, double* b);
+
+
+/* 	Conjugate Gradient
+	NOTICE: matrix must be SPD matrix
+
+// algorithm
+	initialize x0
+	d0 = r0 = b - Ax0
+	for n = 0, 1, 2...
+		alpha_n	= (r_n, r_n) / (d_n, Ad_n)	
+		x_n+1	= x_n + alpha_n * d_n
+		r_n+1	= r_n - alpha_n * Ad_n
+		beta_n+1= (r_n+1, r_n+1) / (r_n, r_n)
+		d_n+1	= r_n+1 + beta_n+1 * d_n
+
+*/
+void CG_Solver(double err_thres, int iter_times_thres, double& err, int& iter_times, cs* A, double* b);

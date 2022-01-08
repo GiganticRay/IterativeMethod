@@ -71,9 +71,95 @@ void GMRES_Solver(double res_thres, int iter_times_thres, double& res, int & ite
 
 		dim ++;
 		s_axpby(M, 1 / H[n][n+1], Q[n+1], 1, NULL, Q[n+1]);
-
+		
 		// solving Ax=b where A is hessenberg matrix form
 		// set res and compare the residual with res_thres
 	}
+}
+
+void CG_Solver(double err_thres, int iter_times_thres, double& err, int& iter_times, cs* A, double* b){
+
+	int N = A->n;
+	iter_times = 0;
+
+	/* auxiliary params
+		Ad_n:	since we reuse this result twice,double array with size N
+		xn:		current approximation solution, double array with size N
+		rn:		residual of nth step, double array with size N
+		rtr_n:		(r_n, r_n)
+		rtr_np1:	(r_n+1, r_n+1)
+		dn:		directions of nth step. double array with size N
+		alpha_n
+		beta_np1
+		zero_vec
+	*/
+	double* Ad_n;
+	double* x_n;
+	double rtr_n 	= 0;
+	double rtr_np1 	= 0;
+	double* d_n; 
+	double* r_n;	
+	double alpha_n;
+	double beta_np1;
+
+	Ad_n	= (double*) malloc (sizeof(double) * N);
+	x_n		= (double*) malloc (sizeof(double) * N);
+	d_n		= (double*) malloc (sizeof(double) * N);
+	r_n		= (double*) malloc (sizeof(double) * N);
+
+	// initialize
+	// memset(x_n, 0, sizeof(double) * N);
+	// s_Generate_Random_vec(N, x_n);
+	memset(x_n, 0, sizeof(double) * N);
+
+	// rn = b - Axn
+	s_axpby(N, -1.0, x_n, 0.0, NULL, x_n);
+	memcpy(r_n, b, sizeof(double) * N);
+	cs_gaxpy(A, x_n, r_n);
+
+	// dn = rn
+	memcpy(d_n, r_n, sizeof(double) * N);
+
+	double norm_b = s_norm(N, b, 2);
+	for(int n = 0; n < 2 * N && iter_times++ < iter_times_thres; n++){
+		// statistical information
+		printf("%d-th f(x) and norm of residual are:\n", n);
+		double* tmp = (double*) malloc (sizeof(double) * N);
+		memset(tmp, 0, sizeof(double) * N);
+		// tmp = Ax_n
+		cs_gaxpy(A, x_n, tmp);
+		// f = 0.5 * xTAx - bTx
+		double f 		= 0.5 * s_inner_prod(N, x_n, tmp) - s_inner_prod(N, b, x_n);
+		
+		//tmp = b-Ax_n
+		s_axpby(N, 1, b, -1, tmp, tmp);
+		double res_norm		= s_norm(N, tmp, 2);
+		double tolerance	= res_norm/norm_b;
+		printf("%lf\t\t%lf\n", f, tolerance);
+
+		if(IS_DOUBLE_ZERO(tolerance)){
+			break;
+		}
+
+		// alpha_n	= (r_n, r_n) / (d_n, Ad_n)	
+		rtr_n = s_inner_prod(N, r_n, r_n);
+		memset(Ad_n, 0, sizeof(double) * N);
+		cs_gaxpy(A, d_n, Ad_n);
+		alpha_n = rtr_n / s_inner_prod(N, d_n, Ad_n);
+
+		// x_n+1	= x_n + alpha_n * d_n
+		s_axpby(N, 1, x_n, alpha_n, d_n, x_n);
+
+		// r_n+1	= r_n - alpha_n * Ad_n
+		s_axpby(N, 1, r_n, -1 * alpha_n, Ad_n, r_n);
+
+		// beta_n+1= (r_n+1, r_n+1) / (r_n, r_n)
+		rtr_np1		= s_inner_prod(N, r_n, r_n);
+		beta_np1	= rtr_np1 / rtr_n;
+
+		// d_n+1	= r_n+1 + beta_n+1 * d_n
+		s_axpby(N, 1, r_n, beta_np1, d_n, d_n);
+	}
 
 }
+

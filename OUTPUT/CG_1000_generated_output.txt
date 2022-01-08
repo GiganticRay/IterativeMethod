@@ -1,0 +1,1108 @@
+Read data consumes 0.027641 s
+0-th f(x) and norm of residual are:
+0.000000		1.000000
+1-th f(x) and norm of residual are:
+-31123877.154253		1.135437
+2-th f(x) and norm of residual are:
+-117111105.894041		1.413170
+3-th f(x) and norm of residual are:
+-228657464.335561		1.633782
+4-th f(x) and norm of residual are:
+-385961917.903113		1.795882
+5-th f(x) and norm of residual are:
+-583231832.515571		1.990419
+6-th f(x) and norm of residual are:
+-824649763.435140		2.281275
+7-th f(x) and norm of residual are:
+-1133243340.484461		2.547805
+8-th f(x) and norm of residual are:
+-1512194536.743034		2.722554
+9-th f(x) and norm of residual are:
+-1932440924.214358		2.967078
+10-th f(x) and norm of residual are:
+-2476945178.686110		3.293502
+11-th f(x) and norm of residual are:
+-3126994739.186398		3.589937
+12-th f(x) and norm of residual are:
+-3843716940.287529		3.925034
+13-th f(x) and norm of residual are:
+-4652367139.184889		3.812614
+14-th f(x) and norm of residual are:
+-5529493714.201930		4.206813
+15-th f(x) and norm of residual are:
+-6441742262.879735		4.139498
+16-th f(x) and norm of residual are:
+-7372224536.418931		4.106409
+17-th f(x) and norm of residual are:
+-8286966410.764208		4.123481
+18-th f(x) and norm of residual are:
+-9262069484.143658		4.175135
+19-th f(x) and norm of residual are:
+-10377752889.394617		4.491483
+20-th f(x) and norm of residual are:
+-11524745812.015799		4.691598
+21-th f(x) and norm of residual are:
+-12738583499.523561		4.603697
+22-th f(x) and norm of residual are:
+-14043388102.726992		4.902799
+23-th f(x) and norm of residual are:
+-15394552602.640522		4.869353
+24-th f(x) and norm of residual are:
+-16876551634.514982		5.421206
+25-th f(x) and norm of residual are:
+-18534924223.162785		5.789579
+26-th f(x) and norm of residual are:
+-20452829735.444435		6.119187
+27-th f(x) and norm of residual are:
+-22799799386.390087		6.548981
+28-th f(x) and norm of residual are:
+-25469639570.726177		6.884913
+29-th f(x) and norm of residual are:
+-28123183327.096748		6.900065
+30-th f(x) and norm of residual are:
+-31037678808.375690		7.320844
+31-th f(x) and norm of residual are:
+-34263850908.737667		7.681452
+32-th f(x) and norm of residual are:
+-37789928001.841232		7.939019
+33-th f(x) and norm of residual are:
+-41831399275.680878		8.694256
+34-th f(x) and norm of residual are:
+-46489419076.936050		8.679076
+35-th f(x) and norm of residual are:
+-51159400632.860008		9.332657
+36-th f(x) and norm of residual are:
+-56027509224.584419		9.047681
+37-th f(x) and norm of residual are:
+-60639740495.910744		9.071860
+38-th f(x) and norm of residual are:
+-65788453523.650757		9.506021
+39-th f(x) and norm of residual are:
+-70839744780.666412		10.458391
+40-th f(x) and norm of residual are:
+-75185613088.367706		11.454276
+41-th f(x) and norm of residual are:
+-80341053020.861328		10.068677
+42-th f(x) and norm of residual are:
+-86040091213.253922		10.219848
+43-th f(x) and norm of residual are:
+-91942714955.348160		10.417836
+44-th f(x) and norm of residual are:
+-98028948478.496460		10.456003
+45-th f(x) and norm of residual are:
+-104589077720.890854		10.916233
+46-th f(x) and norm of residual are:
+-111275337900.933228		10.345980
+47-th f(x) and norm of residual are:
+-117861042770.183228		10.342977
+48-th f(x) and norm of residual are:
+-124337601274.398438		10.074331
+49-th f(x) and norm of residual are:
+-130042780334.956268		9.626286
+50-th f(x) and norm of residual are:
+-135424991340.261734		9.323005
+51-th f(x) and norm of residual are:
+-140625451831.200928		9.227341
+52-th f(x) and norm of residual are:
+-145778706241.721466		9.524320
+53-th f(x) and norm of residual are:
+-151251126190.632568		9.416615
+54-th f(x) and norm of residual are:
+-155909275497.000549		8.903574
+55-th f(x) and norm of residual are:
+-160836072234.805054		8.948679
+56-th f(x) and norm of residual are:
+-165962291589.059326		9.339901
+57-th f(x) and norm of residual are:
+-170830306614.950562		8.995646
+58-th f(x) and norm of residual are:
+-175218312370.755676		8.639175
+59-th f(x) and norm of residual are:
+-179407122631.862213		8.201282
+60-th f(x) and norm of residual are:
+-183552064186.495850		7.963813
+61-th f(x) and norm of residual are:
+-187568169540.837463		8.025152
+62-th f(x) and norm of residual are:
+-191462019177.695343		7.798395
+63-th f(x) and norm of residual are:
+-195297126487.026367		8.051157
+64-th f(x) and norm of residual are:
+-199313019824.912323		7.770930
+65-th f(x) and norm of residual are:
+-202940524743.677765		7.673105
+66-th f(x) and norm of residual are:
+-206381531216.180786		7.593400
+67-th f(x) and norm of residual are:
+-209668162519.258209		7.183141
+68-th f(x) and norm of residual are:
+-212583932930.566284		6.915466
+69-th f(x) and norm of residual are:
+-215496767450.597473		6.534199
+70-th f(x) and norm of residual are:
+-218205753889.564697		6.383129
+71-th f(x) and norm of residual are:
+-220496057679.734253		6.124950
+72-th f(x) and norm of residual are:
+-222564012957.436676		5.812560
+73-th f(x) and norm of residual are:
+-224435292552.408569		6.125247
+74-th f(x) and norm of residual are:
+-225846932956.850861		6.206751
+75-th f(x) and norm of residual are:
+-227292058127.392303		5.732356
+76-th f(x) and norm of residual are:
+-229089557964.513000		5.423650
+77-th f(x) and norm of residual are:
+-230780203290.352600		5.312160
+78-th f(x) and norm of residual are:
+-232279710379.634003		5.182948
+79-th f(x) and norm of residual are:
+-233778927949.946106		4.991231
+80-th f(x) and norm of residual are:
+-234997382334.658264		5.030498
+81-th f(x) and norm of residual are:
+-236153068595.352570		4.719813
+82-th f(x) and norm of residual are:
+-237332644342.662506		4.350167
+83-th f(x) and norm of residual are:
+-238383840786.396149		3.928226
+84-th f(x) and norm of residual are:
+-239361942775.496124		4.056829
+85-th f(x) and norm of residual are:
+-240251882831.573029		3.848857
+86-th f(x) and norm of residual are:
+-241086967255.705750		3.788187
+87-th f(x) and norm of residual are:
+-242007992734.106812		3.938906
+88-th f(x) and norm of residual are:
+-242899618710.889282		3.628971
+89-th f(x) and norm of residual are:
+-243692728618.471069		3.354225
+90-th f(x) and norm of residual are:
+-244338268574.334442		3.353026
+91-th f(x) and norm of residual are:
+-244922756761.230011		3.264755
+92-th f(x) and norm of residual are:
+-245459360232.855408		3.326514
+93-th f(x) and norm of residual are:
+-245980563766.197235		2.990656
+94-th f(x) and norm of residual are:
+-246510081943.224213		2.872269
+95-th f(x) and norm of residual are:
+-247052015672.910553		2.897902
+96-th f(x) and norm of residual are:
+-247563063747.291138		2.717968
+97-th f(x) and norm of residual are:
+-248016988109.903015		2.694152
+98-th f(x) and norm of residual are:
+-248473797642.882965		2.691989
+99-th f(x) and norm of residual are:
+-248959498854.500244		2.665849
+100-th f(x) and norm of residual are:
+-249371547787.206512		2.553146
+101-th f(x) and norm of residual are:
+-249779650999.329559		2.610858
+102-th f(x) and norm of residual are:
+-250201156478.345642		2.445508
+103-th f(x) and norm of residual are:
+-250564285301.496704		2.377838
+104-th f(x) and norm of residual are:
+-250933794234.319885		2.440341
+105-th f(x) and norm of residual are:
+-251299027288.465454		2.389610
+106-th f(x) and norm of residual are:
+-251663020535.213226		2.351610
+107-th f(x) and norm of residual are:
+-251962440445.015289		2.206307
+108-th f(x) and norm of residual are:
+-252186269604.674530		2.519952
+109-th f(x) and norm of residual are:
+-252410099508.424927		2.288670
+110-th f(x) and norm of residual are:
+-252652819327.445251		2.056320
+111-th f(x) and norm of residual are:
+-252869323501.644897		1.989147
+112-th f(x) and norm of residual are:
+-253070616890.119995		1.982145
+113-th f(x) and norm of residual are:
+-253262607281.650635		1.839191
+114-th f(x) and norm of residual are:
+-253459253584.533936		1.699407
+115-th f(x) and norm of residual are:
+-253640452222.792450		1.676876
+116-th f(x) and norm of residual are:
+-253812466169.071991		1.610872
+117-th f(x) and norm of residual are:
+-253981682402.078278		1.583909
+118-th f(x) and norm of residual are:
+-254142572159.097839		1.639804
+119-th f(x) and norm of residual are:
+-254302440924.645294		1.645957
+120-th f(x) and norm of residual are:
+-254432977877.815033		1.519345
+121-th f(x) and norm of residual are:
+-254551578347.408264		1.447671
+122-th f(x) and norm of residual are:
+-254658163255.600586		1.321382
+123-th f(x) and norm of residual are:
+-254764663761.188080		1.237426
+124-th f(x) and norm of residual are:
+-254854491083.379364		1.140931
+125-th f(x) and norm of residual are:
+-254938240594.940063		1.115684
+126-th f(x) and norm of residual are:
+-255016092723.958038		1.068263
+127-th f(x) and norm of residual are:
+-255092584934.246368		1.041898
+128-th f(x) and norm of residual are:
+-255164508126.000366		1.019711
+129-th f(x) and norm of residual are:
+-255228009826.962585		0.981248
+130-th f(x) and norm of residual are:
+-255293312155.650055		0.948856
+131-th f(x) and norm of residual are:
+-255351885603.738373		0.881200
+132-th f(x) and norm of residual are:
+-255400787954.645142		0.840183
+133-th f(x) and norm of residual are:
+-255445204472.788147		0.818078
+134-th f(x) and norm of residual are:
+-255490077858.958862		0.849161
+135-th f(x) and norm of residual are:
+-255527780580.708557		0.904832
+136-th f(x) and norm of residual are:
+-255562013769.328461		0.815823
+137-th f(x) and norm of residual are:
+-255599581449.250641		0.780082
+138-th f(x) and norm of residual are:
+-255637901976.181458		0.767411
+139-th f(x) and norm of residual are:
+-255671407263.474762		0.732044
+140-th f(x) and norm of residual are:
+-255698634838.487885		0.743201
+141-th f(x) and norm of residual are:
+-255723105004.540070		0.765773
+142-th f(x) and norm of residual are:
+-255745393047.253326		0.748470
+143-th f(x) and norm of residual are:
+-255767957878.125092		0.686588
+144-th f(x) and norm of residual are:
+-255791504441.708435		0.599252
+145-th f(x) and norm of residual are:
+-255814109389.751251		0.570141
+146-th f(x) and norm of residual are:
+-255836092137.792877		0.552729
+147-th f(x) and norm of residual are:
+-255857479199.348236		0.546921
+148-th f(x) and norm of residual are:
+-255877053257.718628		0.526063
+149-th f(x) and norm of residual are:
+-255895253480.701508		0.520059
+150-th f(x) and norm of residual are:
+-255911953249.339630		0.511766
+151-th f(x) and norm of residual are:
+-255925723199.107819		0.469402
+152-th f(x) and norm of residual are:
+-255935599483.523590		0.429933
+153-th f(x) and norm of residual are:
+-255946112692.440552		0.416755
+154-th f(x) and norm of residual are:
+-255955360449.442627		0.361663
+155-th f(x) and norm of residual are:
+-255962981572.205902		0.380750
+156-th f(x) and norm of residual are:
+-255969667599.968994		0.370829
+157-th f(x) and norm of residual are:
+-255976522431.291290		0.346305
+158-th f(x) and norm of residual are:
+-255984133783.329041		0.328966
+159-th f(x) and norm of residual are:
+-255990953208.699341		0.310085
+160-th f(x) and norm of residual are:
+-255997481408.212677		0.299737
+161-th f(x) and norm of residual are:
+-256002940411.808167		0.296162
+162-th f(x) and norm of residual are:
+-256007056993.326202		0.268068
+163-th f(x) and norm of residual are:
+-256011207922.278870		0.276729
+164-th f(x) and norm of residual are:
+-256015397405.291718		0.251815
+165-th f(x) and norm of residual are:
+-256019275029.347595		0.236236
+166-th f(x) and norm of residual are:
+-256023366784.104553		0.225305
+167-th f(x) and norm of residual are:
+-256026583296.837372		0.204280
+168-th f(x) and norm of residual are:
+-256029471248.035187		0.198580
+169-th f(x) and norm of residual are:
+-256032274696.736969		0.201456
+170-th f(x) and norm of residual are:
+-256035008666.267822		0.196754
+171-th f(x) and norm of residual are:
+-256037288162.592834		0.203146
+172-th f(x) and norm of residual are:
+-256039168646.470581		0.215013
+173-th f(x) and norm of residual are:
+-256040759813.415253		0.194115
+174-th f(x) and norm of residual are:
+-256042404887.546082		0.189152
+175-th f(x) and norm of residual are:
+-256044101442.040802		0.167582
+176-th f(x) and norm of residual are:
+-256045793625.256561		0.155836
+177-th f(x) and norm of residual are:
+-256047261690.598602		0.149046
+178-th f(x) and norm of residual are:
+-256048785065.262451		0.148863
+179-th f(x) and norm of residual are:
+-256050027457.913208		0.145696
+180-th f(x) and norm of residual are:
+-256051230409.764648		0.149165
+181-th f(x) and norm of residual are:
+-256052377557.733215		0.143871
+182-th f(x) and norm of residual are:
+-256053681841.622253		0.141247
+183-th f(x) and norm of residual are:
+-256054960976.471527		0.140730
+184-th f(x) and norm of residual are:
+-256055937253.048676		0.139606
+185-th f(x) and norm of residual are:
+-256056832040.413391		0.131067
+186-th f(x) and norm of residual are:
+-256057903110.821808		0.124175
+187-th f(x) and norm of residual are:
+-256058998839.369202		0.120468
+188-th f(x) and norm of residual are:
+-256060022354.692505		0.116937
+189-th f(x) and norm of residual are:
+-256060897245.455719		0.114635
+190-th f(x) and norm of residual are:
+-256061609679.274811		0.110056
+191-th f(x) and norm of residual are:
+-256062238264.634644		0.105608
+192-th f(x) and norm of residual are:
+-256062900856.349792		0.100858
+193-th f(x) and norm of residual are:
+-256063558440.188721		0.101605
+194-th f(x) and norm of residual are:
+-256064094199.930481		0.105710
+195-th f(x) and norm of residual are:
+-256064553629.631958		0.095739
+196-th f(x) and norm of residual are:
+-256065036185.833313		0.081540
+197-th f(x) and norm of residual are:
+-256065472663.753632		0.074100
+198-th f(x) and norm of residual are:
+-256065828083.613037		0.070340
+199-th f(x) and norm of residual are:
+-256066147038.873840		0.070670
+200-th f(x) and norm of residual are:
+-256066414240.318298		0.070714
+201-th f(x) and norm of residual are:
+-256066649789.191895		0.061845
+202-th f(x) and norm of residual are:
+-256066899280.292664		0.063336
+203-th f(x) and norm of residual are:
+-256067122114.034882		0.061965
+204-th f(x) and norm of residual are:
+-256067304636.884674		0.060774
+205-th f(x) and norm of residual are:
+-256067479102.642792		0.060262
+206-th f(x) and norm of residual are:
+-256067629595.446259		0.064508
+207-th f(x) and norm of residual are:
+-256067773243.547180		0.053675
+208-th f(x) and norm of residual are:
+-256067946334.946991		0.048933
+209-th f(x) and norm of residual are:
+-256068117207.498993		0.049251
+210-th f(x) and norm of residual are:
+-256068260123.788208		0.048354
+211-th f(x) and norm of residual are:
+-256068383626.348236		0.048210
+212-th f(x) and norm of residual are:
+-256068504004.566895		0.043102
+213-th f(x) and norm of residual are:
+-256068628481.541077		0.043257
+214-th f(x) and norm of residual are:
+-256068756442.856598		0.039576
+215-th f(x) and norm of residual are:
+-256068868801.680939		0.040107
+216-th f(x) and norm of residual are:
+-256068963593.062500		0.039874
+217-th f(x) and norm of residual are:
+-256069047368.008026		0.037556
+218-th f(x) and norm of residual are:
+-256069125571.725891		0.034966
+219-th f(x) and norm of residual are:
+-256069197018.732635		0.031919
+220-th f(x) and norm of residual are:
+-256069265112.642639		0.029602
+221-th f(x) and norm of residual are:
+-256069320815.678345		0.028758
+222-th f(x) and norm of residual are:
+-256069365039.929657		0.031195
+223-th f(x) and norm of residual are:
+-256069407191.168213		0.028079
+224-th f(x) and norm of residual are:
+-256069450173.419250		0.025013
+225-th f(x) and norm of residual are:
+-256069494929.481079		0.024817
+226-th f(x) and norm of residual are:
+-256069536731.865295		0.025790
+227-th f(x) and norm of residual are:
+-256069570494.114380		0.023954
+228-th f(x) and norm of residual are:
+-256069598598.782837		0.020953
+229-th f(x) and norm of residual are:
+-256069628167.752441		0.019371
+230-th f(x) and norm of residual are:
+-256069654080.903137		0.020467
+231-th f(x) and norm of residual are:
+-256069676400.798035		0.020105
+232-th f(x) and norm of residual are:
+-256069697963.933197		0.018248
+233-th f(x) and norm of residual are:
+-256069718666.015808		0.015602
+234-th f(x) and norm of residual are:
+-256069738174.634766		0.015666
+235-th f(x) and norm of residual are:
+-256069754121.039856		0.017187
+236-th f(x) and norm of residual are:
+-256069763661.597168		0.016986
+237-th f(x) and norm of residual are:
+-256069776034.395294		0.015095
+238-th f(x) and norm of residual are:
+-256069789916.636536		0.013713
+239-th f(x) and norm of residual are:
+-256069801261.629883		0.014360
+240-th f(x) and norm of residual are:
+-256069812703.419098		0.013569
+241-th f(x) and norm of residual are:
+-256069823488.804413		0.012506
+242-th f(x) and norm of residual are:
+-256069833320.069427		0.012290
+243-th f(x) and norm of residual are:
+-256069841428.197083		0.012416
+244-th f(x) and norm of residual are:
+-256069848673.484558		0.011470
+245-th f(x) and norm of residual are:
+-256069856976.497101		0.010364
+246-th f(x) and norm of residual are:
+-256069865347.516846		0.010602
+247-th f(x) and norm of residual are:
+-256069873180.035522		0.010513
+248-th f(x) and norm of residual are:
+-256069880165.291077		0.010372
+249-th f(x) and norm of residual are:
+-256069885481.172943		0.010154
+250-th f(x) and norm of residual are:
+-256069890152.914581		0.009250
+251-th f(x) and norm of residual are:
+-256069894848.003540		0.009335
+252-th f(x) and norm of residual are:
+-256069898784.542542		0.008630
+253-th f(x) and norm of residual are:
+-256069902786.220093		0.007550
+254-th f(x) and norm of residual are:
+-256069906161.201904		0.007999
+255-th f(x) and norm of residual are:
+-256069909036.917877		0.007171
+256-th f(x) and norm of residual are:
+-256069911900.868927		0.006266
+257-th f(x) and norm of residual are:
+-256069914627.507019		0.006116
+258-th f(x) and norm of residual are:
+-256069917051.625122		0.005858
+259-th f(x) and norm of residual are:
+-256069919387.764984		0.006393
+260-th f(x) and norm of residual are:
+-256069921280.407166		0.006077
+261-th f(x) and norm of residual are:
+-256069923296.303772		0.005699
+262-th f(x) and norm of residual are:
+-256069924885.188171		0.005505
+263-th f(x) and norm of residual are:
+-256069926538.754089		0.005248
+264-th f(x) and norm of residual are:
+-256069928214.369537		0.004805
+265-th f(x) and norm of residual are:
+-256069929768.421204		0.004298
+266-th f(x) and norm of residual are:
+-256069931000.256531		0.004347
+267-th f(x) and norm of residual are:
+-256069931955.597931		0.004411
+268-th f(x) and norm of residual are:
+-256069932745.689362		0.004219
+269-th f(x) and norm of residual are:
+-256069933347.100159		0.004029
+270-th f(x) and norm of residual are:
+-256069934167.262115		0.003500
+271-th f(x) and norm of residual are:
+-256069934962.630280		0.003082
+272-th f(x) and norm of residual are:
+-256069935773.441589		0.003187
+273-th f(x) and norm of residual are:
+-256069936401.054108		0.003224
+274-th f(x) and norm of residual are:
+-256069936910.035522		0.002926
+275-th f(x) and norm of residual are:
+-256069937397.409637		0.002713
+276-th f(x) and norm of residual are:
+-256069937843.246918		0.002821
+277-th f(x) and norm of residual are:
+-256069938215.653961		0.002525
+278-th f(x) and norm of residual are:
+-256069938612.863678		0.002391
+279-th f(x) and norm of residual are:
+-256069938957.049286		0.002154
+280-th f(x) and norm of residual are:
+-256069939282.489410		0.002081
+281-th f(x) and norm of residual are:
+-256069939562.555664		0.002140
+282-th f(x) and norm of residual are:
+-256069939801.173309		0.001978
+283-th f(x) and norm of residual are:
+-256069940042.781738		0.001892
+284-th f(x) and norm of residual are:
+-256069940283.594604		0.001927
+285-th f(x) and norm of residual are:
+-256069940487.375061		0.001949
+286-th f(x) and norm of residual are:
+-256069940654.572510		0.001784
+287-th f(x) and norm of residual are:
+-256069940834.296417		0.001684
+288-th f(x) and norm of residual are:
+-256069941031.741547		0.001591
+289-th f(x) and norm of residual are:
+-256069941189.416412		0.001689
+290-th f(x) and norm of residual are:
+-256069941320.838959		0.001766
+291-th f(x) and norm of residual are:
+-256069941472.743225		0.001452
+292-th f(x) and norm of residual are:
+-256069941621.650909		0.001477
+293-th f(x) and norm of residual are:
+-256069941745.114716		0.001459
+294-th f(x) and norm of residual are:
+-256069941855.554474		0.001298
+295-th f(x) and norm of residual are:
+-256069941973.362579		0.001250
+296-th f(x) and norm of residual are:
+-256069942083.904968		0.001181
+297-th f(x) and norm of residual are:
+-256069942166.810425		0.001270
+298-th f(x) and norm of residual are:
+-256069942230.272430		0.001107
+299-th f(x) and norm of residual are:
+-256069942290.936127		0.001205
+300-th f(x) and norm of residual are:
+-256069942335.118256		0.001055
+301-th f(x) and norm of residual are:
+-256069942400.992432		0.000932
+302-th f(x) and norm of residual are:
+-256069942464.611176		0.000884
+303-th f(x) and norm of residual are:
+-256069942515.122253		0.000927
+304-th f(x) and norm of residual are:
+-256069942564.440460		0.000886
+305-th f(x) and norm of residual are:
+-256069942614.056641		0.000808
+306-th f(x) and norm of residual are:
+-256069942660.845123		0.000785
+307-th f(x) and norm of residual are:
+-256069942700.664948		0.000802
+308-th f(x) and norm of residual are:
+-256069942734.731842		0.000870
+309-th f(x) and norm of residual are:
+-256069942763.237518		0.000708
+310-th f(x) and norm of residual are:
+-256069942797.369080		0.000702
+311-th f(x) and norm of residual are:
+-256069942828.346832		0.000704
+312-th f(x) and norm of residual are:
+-256069942856.472565		0.000702
+313-th f(x) and norm of residual are:
+-256069942885.113800		0.000624
+314-th f(x) and norm of residual are:
+-256069942910.521698		0.000602
+315-th f(x) and norm of residual are:
+-256069942931.898285		0.000625
+316-th f(x) and norm of residual are:
+-256069942949.344635		0.000551
+317-th f(x) and norm of residual are:
+-256069942969.418640		0.000487
+318-th f(x) and norm of residual are:
+-256069942986.459717		0.000456
+319-th f(x) and norm of residual are:
+-256069943000.941711		0.000477
+320-th f(x) and norm of residual are:
+-256069943014.169220		0.000472
+321-th f(x) and norm of residual are:
+-256069943027.464539		0.000403
+322-th f(x) and norm of residual are:
+-256069943039.356995		0.000384
+323-th f(x) and norm of residual are:
+-256069943050.234924		0.000369
+324-th f(x) and norm of residual are:
+-256069943059.449280		0.000399
+325-th f(x) and norm of residual are:
+-256069943067.083282		0.000365
+326-th f(x) and norm of residual are:
+-256069943074.661285		0.000341
+327-th f(x) and norm of residual are:
+-256069943081.603577		0.000358
+328-th f(x) and norm of residual are:
+-256069943086.763306		0.000348
+329-th f(x) and norm of residual are:
+-256069943091.520538		0.000349
+330-th f(x) and norm of residual are:
+-256069943096.185455		0.000299
+331-th f(x) and norm of residual are:
+-256069943100.777008		0.000280
+332-th f(x) and norm of residual are:
+-256069943104.501923		0.000283
+333-th f(x) and norm of residual are:
+-256069943108.866272		0.000256
+334-th f(x) and norm of residual are:
+-256069943113.451660		0.000227
+335-th f(x) and norm of residual are:
+-256069943117.087677		0.000219
+336-th f(x) and norm of residual are:
+-256069943119.627594		0.000222
+337-th f(x) and norm of residual are:
+-256069943121.936188		0.000196
+338-th f(x) and norm of residual are:
+-256069943124.891815		0.000199
+339-th f(x) and norm of residual are:
+-256069943127.495911		0.000213
+340-th f(x) and norm of residual are:
+-256069943129.945526		0.000204
+341-th f(x) and norm of residual are:
+-256069943132.722534		0.000185
+342-th f(x) and norm of residual are:
+-256069943135.267181		0.000184
+343-th f(x) and norm of residual are:
+-256069943137.172272		0.000194
+344-th f(x) and norm of residual are:
+-256069943138.812683		0.000172
+345-th f(x) and norm of residual are:
+-256069943140.725525		0.000158
+346-th f(x) and norm of residual are:
+-256069943142.794067		0.000178
+347-th f(x) and norm of residual are:
+-256069943144.218292		0.000159
+348-th f(x) and norm of residual are:
+-256069943146.026642		0.000168
+349-th f(x) and norm of residual are:
+-256069943147.680847		0.000173
+350-th f(x) and norm of residual are:
+-256069943149.126495		0.000156
+351-th f(x) and norm of residual are:
+-256069943150.673981		0.000144
+352-th f(x) and norm of residual are:
+-256069943151.878571		0.000162
+353-th f(x) and norm of residual are:
+-256069943152.857269		0.000140
+354-th f(x) and norm of residual are:
+-256069943154.126068		0.000128
+355-th f(x) and norm of residual are:
+-256069943155.337189		0.000137
+356-th f(x) and norm of residual are:
+-256069943156.273895		0.000140
+357-th f(x) and norm of residual are:
+-256069943157.243347		0.000124
+358-th f(x) and norm of residual are:
+-256069943158.251160		0.000129
+359-th f(x) and norm of residual are:
+-256069943159.058563		0.000117
+360-th f(x) and norm of residual are:
+-256069943159.916138		0.000129
+361-th f(x) and norm of residual are:
+-256069943160.487579		0.000123
+362-th f(x) and norm of residual are:
+-256069943161.055969		0.000103
+363-th f(x) and norm of residual are:
+-256069943161.633331		0.000102
+364-th f(x) and norm of residual are:
+-256069943162.181152		0.000087
+365-th f(x) and norm of residual are:
+-256069943162.688507		0.000086
+366-th f(x) and norm of residual are:
+-256069943163.158752		0.000092
+367-th f(x) and norm of residual are:
+-256069943163.416840		0.000086
+368-th f(x) and norm of residual are:
+-256069943163.873810		0.000080
+369-th f(x) and norm of residual are:
+-256069943164.336884		0.000078
+370-th f(x) and norm of residual are:
+-256069943164.633850		0.000075
+371-th f(x) and norm of residual are:
+-256069943164.959320		0.000075
+372-th f(x) and norm of residual are:
+-256069943165.214325		0.000074
+373-th f(x) and norm of residual are:
+-256069943165.471619		0.000058
+374-th f(x) and norm of residual are:
+-256069943165.744110		0.000052
+375-th f(x) and norm of residual are:
+-256069943165.919434		0.000054
+376-th f(x) and norm of residual are:
+-256069943166.084015		0.000049
+377-th f(x) and norm of residual are:
+-256069943166.188416		0.000044
+378-th f(x) and norm of residual are:
+-256069943166.334259		0.000043
+379-th f(x) and norm of residual are:
+-256069943166.413696		0.000040
+380-th f(x) and norm of residual are:
+-256069943166.480865		0.000035
+381-th f(x) and norm of residual are:
+-256069943166.622131		0.000031
+382-th f(x) and norm of residual are:
+-256069943166.681549		0.000031
+383-th f(x) and norm of residual are:
+-256069943166.745422		0.000030
+384-th f(x) and norm of residual are:
+-256069943166.808594		0.000027
+385-th f(x) and norm of residual are:
+-256069943166.852631		0.000024
+386-th f(x) and norm of residual are:
+-256069943166.923096		0.000027
+387-th f(x) and norm of residual are:
+-256069943166.932465		0.000027
+388-th f(x) and norm of residual are:
+-256069943166.938873		0.000024
+389-th f(x) and norm of residual are:
+-256069943167.006104		0.000023
+390-th f(x) and norm of residual are:
+-256069943167.000458		0.000023
+391-th f(x) and norm of residual are:
+-256069943167.069672		0.000023
+392-th f(x) and norm of residual are:
+-256069943167.052185		0.000024
+393-th f(x) and norm of residual are:
+-256069943167.116455		0.000018
+394-th f(x) and norm of residual are:
+-256069943167.162659		0.000016
+395-th f(x) and norm of residual are:
+-256069943167.166260		0.000018
+396-th f(x) and norm of residual are:
+-256069943167.087036		0.000017
+397-th f(x) and norm of residual are:
+-256069943167.212585		0.000015
+398-th f(x) and norm of residual are:
+-256069943167.218140		0.000015
+399-th f(x) and norm of residual are:
+-256069943167.173828		0.000013
+400-th f(x) and norm of residual are:
+-256069943167.182831		0.000012
+401-th f(x) and norm of residual are:
+-256069943167.180450		0.000011
+402-th f(x) and norm of residual are:
+-256069943167.221863		0.000013
+403-th f(x) and norm of residual are:
+-256069943167.185608		0.000011
+404-th f(x) and norm of residual are:
+-256069943167.242950		0.000010
+405-th f(x) and norm of residual are:
+-256069943167.222626		0.000011
+406-th f(x) and norm of residual are:
+-256069943167.266663		0.000009
+407-th f(x) and norm of residual are:
+-256069943167.241608		0.000009
+408-th f(x) and norm of residual are:
+-256069943167.260712		0.000009
+409-th f(x) and norm of residual are:
+-256069943167.301514		0.000008
+410-th f(x) and norm of residual are:
+-256069943167.295898		0.000008
+411-th f(x) and norm of residual are:
+-256069943167.256622		0.000008
+412-th f(x) and norm of residual are:
+-256069943167.230682		0.000007
+413-th f(x) and norm of residual are:
+-256069943167.260895		0.000007
+414-th f(x) and norm of residual are:
+-256069943167.301392		0.000007
+415-th f(x) and norm of residual are:
+-256069943167.265717		0.000006
+416-th f(x) and norm of residual are:
+-256069943167.296326		0.000007
+417-th f(x) and norm of residual are:
+-256069943167.278473		0.000006
+418-th f(x) and norm of residual are:
+-256069943167.268311		0.000005
+419-th f(x) and norm of residual are:
+-256069943167.270111		0.000006
+420-th f(x) and norm of residual are:
+-256069943167.299866		0.000005
+421-th f(x) and norm of residual are:
+-256069943167.280914		0.000005
+422-th f(x) and norm of residual are:
+-256069943167.318054		0.000005
+423-th f(x) and norm of residual are:
+-256069943167.316803		0.000005
+424-th f(x) and norm of residual are:
+-256069943167.259155		0.000004
+425-th f(x) and norm of residual are:
+-256069943167.255127		0.000004
+426-th f(x) and norm of residual are:
+-256069943167.282623		0.000004
+427-th f(x) and norm of residual are:
+-256069943167.341248		0.000004
+428-th f(x) and norm of residual are:
+-256069943167.297546		0.000003
+429-th f(x) and norm of residual are:
+-256069943167.285614		0.000003
+430-th f(x) and norm of residual are:
+-256069943167.320740		0.000003
+431-th f(x) and norm of residual are:
+-256069943167.316040		0.000003
+432-th f(x) and norm of residual are:
+-256069943167.320251		0.000003
+433-th f(x) and norm of residual are:
+-256069943167.270294		0.000003
+434-th f(x) and norm of residual are:
+-256069943167.339050		0.000003
+435-th f(x) and norm of residual are:
+-256069943167.343750		0.000003
+436-th f(x) and norm of residual are:
+-256069943167.297668		0.000002
+437-th f(x) and norm of residual are:
+-256069943167.294159		0.000002
+438-th f(x) and norm of residual are:
+-256069943167.278351		0.000002
+439-th f(x) and norm of residual are:
+-256069943167.287415		0.000002
+440-th f(x) and norm of residual are:
+-256069943167.356964		0.000002
+441-th f(x) and norm of residual are:
+-256069943167.296234		0.000002
+442-th f(x) and norm of residual are:
+-256069943167.319000		0.000002
+443-th f(x) and norm of residual are:
+-256069943167.324524		0.000002
+444-th f(x) and norm of residual are:
+-256069943167.266113		0.000002
+445-th f(x) and norm of residual are:
+-256069943167.264221		0.000002
+446-th f(x) and norm of residual are:
+-256069943167.308990		0.000002
+447-th f(x) and norm of residual are:
+-256069943167.299866		0.000002
+448-th f(x) and norm of residual are:
+-256069943167.317780		0.000002
+449-th f(x) and norm of residual are:
+-256069943167.290314		0.000001
+450-th f(x) and norm of residual are:
+-256069943167.326721		0.000001
+451-th f(x) and norm of residual are:
+-256069943167.330841		0.000001
+452-th f(x) and norm of residual are:
+-256069943167.315643		0.000001
+453-th f(x) and norm of residual are:
+-256069943167.266876		0.000001
+454-th f(x) and norm of residual are:
+-256069943167.287354		0.000001
+455-th f(x) and norm of residual are:
+-256069943167.321045		0.000001
+456-th f(x) and norm of residual are:
+-256069943167.316315		0.000001
+457-th f(x) and norm of residual are:
+-256069943167.327606		0.000001
+458-th f(x) and norm of residual are:
+-256069943167.336731		0.000001
+459-th f(x) and norm of residual are:
+-256069943167.325256		0.000001
+460-th f(x) and norm of residual are:
+-256069943167.324707		0.000001
+461-th f(x) and norm of residual are:
+-256069943167.341400		0.000001
+462-th f(x) and norm of residual are:
+-256069943167.292511		0.000001
+463-th f(x) and norm of residual are:
+-256069943167.303467		0.000001
+464-th f(x) and norm of residual are:
+-256069943167.307159		0.000001
+465-th f(x) and norm of residual are:
+-256069943167.277313		0.000001
+466-th f(x) and norm of residual are:
+-256069943167.294617		0.000001
+467-th f(x) and norm of residual are:
+-256069943167.320587		0.000001
+468-th f(x) and norm of residual are:
+-256069943167.296967		0.000001
+469-th f(x) and norm of residual are:
+-256069943167.309357		0.000001
+470-th f(x) and norm of residual are:
+-256069943167.350891		0.000001
+471-th f(x) and norm of residual are:
+-256069943167.309875		0.000001
+472-th f(x) and norm of residual are:
+-256069943167.351654		0.000001
+473-th f(x) and norm of residual are:
+-256069943167.310333		0.000001
+474-th f(x) and norm of residual are:
+-256069943167.282013		0.000001
+475-th f(x) and norm of residual are:
+-256069943167.308533		0.000001
+476-th f(x) and norm of residual are:
+-256069943167.322754		0.000000
+477-th f(x) and norm of residual are:
+-256069943167.304260		0.000000
+478-th f(x) and norm of residual are:
+-256069943167.323059		0.000001
+479-th f(x) and norm of residual are:
+-256069943167.285156		0.000000
+480-th f(x) and norm of residual are:
+-256069943167.289764		0.000000
+481-th f(x) and norm of residual are:
+-256069943167.296814		0.000000
+482-th f(x) and norm of residual are:
+-256069943167.320709		0.000000
+483-th f(x) and norm of residual are:
+-256069943167.275238		0.000000
+484-th f(x) and norm of residual are:
+-256069943167.306274		0.000000
+485-th f(x) and norm of residual are:
+-256069943167.306244		0.000000
+486-th f(x) and norm of residual are:
+-256069943167.305054		0.000000
+487-th f(x) and norm of residual are:
+-256069943167.303833		0.000000
+488-th f(x) and norm of residual are:
+-256069943167.293854		0.000000
+489-th f(x) and norm of residual are:
+-256069943167.287170		0.000000
+490-th f(x) and norm of residual are:
+-256069943167.354401		0.000000
+491-th f(x) and norm of residual are:
+-256069943167.282257		0.000000
+492-th f(x) and norm of residual are:
+-256069943167.307861		0.000000
+493-th f(x) and norm of residual are:
+-256069943167.283569		0.000000
+494-th f(x) and norm of residual are:
+-256069943167.277649		0.000000
+495-th f(x) and norm of residual are:
+-256069943167.360046		0.000000
+496-th f(x) and norm of residual are:
+-256069943167.282410		0.000000
+497-th f(x) and norm of residual are:
+-256069943167.296936		0.000000
+498-th f(x) and norm of residual are:
+-256069943167.278687		0.000000
+499-th f(x) and norm of residual are:
+-256069943167.287048		0.000000
+500-th f(x) and norm of residual are:
+-256069943167.320190		0.000000
+501-th f(x) and norm of residual are:
+-256069943167.308502		0.000000
+502-th f(x) and norm of residual are:
+-256069943167.362122		0.000000
+503-th f(x) and norm of residual are:
+-256069943167.324341		0.000000
+504-th f(x) and norm of residual are:
+-256069943167.311859		0.000000
+505-th f(x) and norm of residual are:
+-256069943167.288055		0.000000
+506-th f(x) and norm of residual are:
+-256069943167.270660		0.000000
+507-th f(x) and norm of residual are:
+-256069943167.344055		0.000000
+508-th f(x) and norm of residual are:
+-256069943167.333435		0.000000
+509-th f(x) and norm of residual are:
+-256069943167.299011		0.000000
+510-th f(x) and norm of residual are:
+-256069943167.334106		0.000000
+511-th f(x) and norm of residual are:
+-256069943167.294922		0.000000
+512-th f(x) and norm of residual are:
+-256069943167.331696		0.000000
+513-th f(x) and norm of residual are:
+-256069943167.308075		0.000000
+514-th f(x) and norm of residual are:
+-256069943167.331421		0.000000
+515-th f(x) and norm of residual are:
+-256069943167.300171		0.000000
+516-th f(x) and norm of residual are:
+-256069943167.363922		0.000000
+517-th f(x) and norm of residual are:
+-256069943167.279053		0.000000
+518-th f(x) and norm of residual are:
+-256069943167.300964		0.000000
+519-th f(x) and norm of residual are:
+-256069943167.291687		0.000000
+520-th f(x) and norm of residual are:
+-256069943167.325043		0.000000
+521-th f(x) and norm of residual are:
+-256069943167.335327		0.000000
+522-th f(x) and norm of residual are:
+-256069943167.281189		0.000000
+523-th f(x) and norm of residual are:
+-256069943167.334808		0.000000
+524-th f(x) and norm of residual are:
+-256069943167.368378		0.000000
+525-th f(x) and norm of residual are:
+-256069943167.297394		0.000000
+526-th f(x) and norm of residual are:
+-256069943167.307434		0.000000
+527-th f(x) and norm of residual are:
+-256069943167.326111		0.000000
+528-th f(x) and norm of residual are:
+-256069943167.335114		0.000000
+529-th f(x) and norm of residual are:
+-256069943167.251068		0.000000
+530-th f(x) and norm of residual are:
+-256069943167.294525		0.000000
+531-th f(x) and norm of residual are:
+-256069943167.351959		0.000000
+532-th f(x) and norm of residual are:
+-256069943167.320709		0.000000
+533-th f(x) and norm of residual are:
+-256069943167.312073		0.000000
+534-th f(x) and norm of residual are:
+-256069943167.315338		0.000000
+535-th f(x) and norm of residual are:
+-256069943167.341492		0.000000
+536-th f(x) and norm of residual are:
+-256069943167.314240		0.000000
+537-th f(x) and norm of residual are:
+-256069943167.292450		0.000000
+538-th f(x) and norm of residual are:
+-256069943167.305481		0.000000
+539-th f(x) and norm of residual are:
+-256069943167.288910		0.000000
+540-th f(x) and norm of residual are:
+-256069943167.286102		0.000000
+541-th f(x) and norm of residual are:
+-256069943167.288940		0.000000
+542-th f(x) and norm of residual are:
+-256069943167.305542		0.000000
+543-th f(x) and norm of residual are:
+-256069943167.335907		0.000000
+544-th f(x) and norm of residual are:
+-256069943167.302917		0.000000
+545-th f(x) and norm of residual are:
+-256069943167.319366		0.000000
+546-th f(x) and norm of residual are:
+-256069943167.251221		0.000000
+547-th f(x) and norm of residual are:
+-256069943167.285553		0.000000
+548-th f(x) and norm of residual are:
+-256069943167.320435		0.000000
+549-th f(x) and norm of residual are:
+-256069943167.269653		0.000000
+550-th f(x) and norm of residual are:
+-256069943167.276245		0.000000
+551-th f(x) and norm of residual are:
+-256069943167.290741		0.000000
+552-th f(x) and norm of residual are:
+-256069943167.294525		0.000000
+GS Solver consumes 0.347820 s

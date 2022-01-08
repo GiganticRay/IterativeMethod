@@ -2,23 +2,34 @@
 #include <stdlib.h>
 #include <iostream>
 #include <cmath>
+#include "string.h"
 #include "SerialBLAS.h"
 
 void s_axpby(int length, double alpha, double* x, double beta, double* y, double* result){
 	// check the validation of input
+	// we can not modify each of parameter during the calculating.
+	// Auxiliary parameters
+	// alpha_mul_x
+	// beta_mul_y
+	double* alpha_m_x	= (double*) malloc (sizeof(double) * length);
+	double* beta_m_y	= (double*) malloc (sizeof(double) * length);
+
 	if(x == NULL or result == NULL){
 		printf("check your input\n");
 		exit(-1);
 	}
 
 	for(int i = 0; i < length; i++){
-		result[i] = alpha * x[i];
+		alpha_m_x[i] = alpha * x[i];
 	}
 
 	if(y != NULL){
 		for(int i = 0; i < length; i++){
-			result[i] += beta * y[i];
+			beta_m_y[i]	= beta * y[i];
+			result[i] = alpha_m_x[i] + beta_m_y[i];
 		}
+	}else{
+		memcpy(result, alpha_m_x, sizeof(double) * length);
 	}
 }
 
@@ -44,14 +55,3 @@ double s_inner_prod(int length, double* x, double* y){
 	}
 	return d_res;
 }
-
-template <typename elemType>
-void s_Print_vec(int length, elemType* array){
-	printf("length is %d \n", length);
-	for(int i = 0; i < length; i++){
-		std::cout << array[i] << "\t";
-	}
-	printf("\n\n");
-}
-template void s_Print_vec<int>(int length, int* array);
-template void s_Print_vec<double>(int length, double* array);
